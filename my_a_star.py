@@ -2,8 +2,6 @@ import pygame
 import my_start_end
 from my_node import Node 
 import my_button
-# from math import sqrt
-# from random import randint, choice
 
 
 pygame.init() # initialiser
@@ -250,19 +248,7 @@ while True:
         break
 A_star_path.append((ps.x+10,ps.y+10))
 A_star_path.reverse()
-# A_star_path = []
-# x, y = curr_node.x, curr_node.y
-# while True:
-#     A_star_path.append((x + 10, y + 10))
-#     x, y = curr_node.parent.x, curr_node.parent.y
 
-#     curr_node = curr_node.parent
-
-#     if x == a.x and y == a.y:
-#         break
-# A_star_path.append((a.x + 10, a.y + 10))
-# A_star_path.reverse()
-    
 step=0
     # this is for just annimation on line path
 while True:
