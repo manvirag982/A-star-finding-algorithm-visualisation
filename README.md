@@ -35,3 +35,8 @@ For run:
 
 
 5..now see magic make some wall set delay ..enjoy and understand
+
+![](pic1.png)
+![](pic2.png)
+![](pic3.png)
+![](pic4.png)
